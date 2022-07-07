@@ -1,4 +1,6 @@
 # BSPWM
+This is a repo of my supposedly custom `BSPWM` config while tinkering on my newly installed `ArchCraft` OS.
+A journey on exploring Tiling Window Manager.
 ## BSPC
 Adding rules to send `brave` to desktop number 2 when launching
 ```shell
